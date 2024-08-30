@@ -1,0 +1,28 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+.box1 {
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    //margin e o espaçamento fora da caixa
+    margin: 20px;
+    //padding e o espaçamento de dentro da caixa
+    padding: 10px;
+    border: solid 2px;
+    //display padrao da div: block
+    display: inline-block;
+}
+
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 20px;
+    padding: 10px;
+    display: inline-block;
+}
+
